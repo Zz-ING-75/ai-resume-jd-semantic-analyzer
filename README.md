@@ -1,44 +1,54 @@
-# AI Resume & JD Semantic Analyzer
+# AI 简历与岗位 JD 智能语义分析平台
 
-AI-powered Resume & Job Description semantic matching platform with AI-driven skill analysis, semantic matching, and resume optimization suggestions.
-
----
-
-## Demo Preview
-
-### Home Page
-
-![Home](assets/home.png)
+基于 AI Semantic Matching 的简历与岗位 JD 智能匹配分析平台，支持技能缺口分析、语义匹配、AI 简历优化建议与可视化展示。
 
 ---
 
-### Semantic Analysis
+# 项目预览
 
-![Semantic Analysis](assets/semantic-analysis.png)
+## 首页
 
----
-
-### AI Suggestions
-
-![AI Suggestions](assets/ai-suggestions.png)
+![首页](assets/home.png)
 
 ---
 
-## Features
+## 语义匹配分析
 
-- Resume & JD Semantic Matching
-- AI Skill Gap Analysis
-- Dashboard Visualization
-- AI Resume Suggestions
-- Prompt Engineering Workflow
-- Local AI Analysis Platform
+![语义匹配分析](assets/semantic-analysis.png)
 
 ---
 
-## Tech Stack
+## AI 改简历建议
+
+![AI建议](assets/ai-suggestions.png)
+
+---
+
+# 项目功能
+
+- 简历与岗位 JD 智能语义匹配
+- AI 技能缺口分析
+- Dashboard 数据可视化
+- AI 简历优化建议
+- Prompt Engineering 工作流
+- 本地 AI 分析平台
+
+---
+
+# 技术栈
 
 - React
 - Flask
 - DeepSeek API
 - Prompt Engineering
 - GitHub
+
+---
+
+# 项目亮点
+
+- 从传统关键词匹配升级为 AI Semantic Matching
+- 基于 Prompt Engineering 提升岗位与简历匹配准确度
+- 支持 Resume Skills / Missing Skills 分析
+- 提供 AI 总结与改简历建议
+- 基于 Cursor / ChatGPT 完成 AI 协同开发
